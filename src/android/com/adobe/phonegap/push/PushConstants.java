@@ -29,6 +29,7 @@ public interface PushConstants {
     public static final String PARSE_COM_DATA = "data";
     public static final String ALERT = "alert";
     public static final String MESSAGE = "message";
+    public static final String MP_MESSAGE = "mp_message";
     public static final String BODY = "body";
     public static final String SOUNDNAME = "soundname";
     public static final String LED_COLOR = "ledColor";
